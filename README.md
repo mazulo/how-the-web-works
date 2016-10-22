@@ -4,7 +4,7 @@ Repositório para reunir material de estudo sobre como a web funciona, e como pr
 ## HTTP
   - [How the web works: HTTP and CGI explained](http://www.garshol.priv.no/download/text/http-tut.html)
   
-## HTTP2/
+## HTTP/2
   - [HTTP/2: magia com o novo protocolo – Hipsters #13](http://hipsters.tech/http2-magia-com-o-novo-protocolo/) (Podcast)
 
 ## Python
